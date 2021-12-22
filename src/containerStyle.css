@@ -1,0 +1,45 @@
+body{
+    background-color: darkolivegreen;
+}
+
+.heading{
+    text-shadow: 2px 2px lightyellow;    
+    text-align: center;
+}
+
+.button{
+    height: 80px;
+    width: 400px;
+    background-color: lightblue;
+    font-size:larger;
+    margin-left: 250px;
+    border-radius: 40px;
+}
+
+.box{
+    display: inline;
+}
+
+.mainbox{
+    height: 300px;
+    width: 500px;
+    border-radius: 40px;
+    text-align: center;
+}
+.boxheading{
+    padding-top: 25px;
+}
+.component1{
+    background-image: linear-gradient(lightblue,white,lightpink);
+
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+.component2{
+    background-image: linear-gradient(lightblue,white,lightgreen);
+    position: absolute;
+    left: 800px;
+    top: 250px;
+}
+
